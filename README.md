@@ -24,7 +24,7 @@ The game ends when one player has captured enough seeds to win, typically determ
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Run the `Oware.py` file using Python: `python Oware.py`.
+3. Run the `oware.py` file using Python: `python oware.py`.
 4. Follow the on-screen instructions to play the game.
 5. Enjoy the game!
 
